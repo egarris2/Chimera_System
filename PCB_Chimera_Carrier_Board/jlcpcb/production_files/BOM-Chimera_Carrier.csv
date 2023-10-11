@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+Bus_M.2_Socket_B,B1,NGFF_B,
+Bus_M.2_Socket_B,A2,NGFF_B,
+Bus_M.2_Socket_B,IN1,NGFF_B,
+Bus_M.2_Socket_B,OUT1,NGFF_B,
+Bus_M.2_Socket_B,A3,NGFF_B,
+Bus_M.2_Socket_B,B3,NGFF_B,
+Bus_M.2_Socket_B,B2,NGFF_B,
+Bus_M.2_Socket_B,B4,NGFF_B,
+Bus_M.2_Socket_B,A1,NGFF_B,
+Bus_M.2_Socket_B,A4,NGFF_B,

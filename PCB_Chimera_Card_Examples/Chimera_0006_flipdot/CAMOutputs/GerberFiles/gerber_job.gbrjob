@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-09-27T14:39:58Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 2.41,
+        "LayerNumber": 6,
+        "Name": {
+            "ProjectId": "untitled"
+        },
+        "Owner": "Trey Garrison <trey@nibejpi.com>",
+        "Size": {
+            "X": 20.1601,
+            "Y": 24.3615
+        }
+    }
+}

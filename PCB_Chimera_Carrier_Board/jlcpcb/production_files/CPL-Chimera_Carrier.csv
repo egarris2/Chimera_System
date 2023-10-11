@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+A1,Bus_M.2_Socket_B,NGFF_B,57.5,-81.8875,180.0,top
+A2,Bus_M.2_Socket_B,NGFF_B,82.5,-81.8875,180.0,top
+A3,Bus_M.2_Socket_B,NGFF_B,107.5,-81.8875,180.0,top
+A4,Bus_M.2_Socket_B,NGFF_B,132.5,-81.8875,180.0,top
+B1,Bus_M.2_Socket_B,NGFF_B,57.5,-118.1125,0.0,top
+B2,Bus_M.2_Socket_B,NGFF_B,82.5,-118.1125,0.0,top
+B3,Bus_M.2_Socket_B,NGFF_B,107.5,-118.1125,0.0,top
+B4,Bus_M.2_Socket_B,NGFF_B,132.5,-118.1125,0.0,top
+IN1,Bus_M.2_Socket_B,NGFF_B,46.8875,-100.0,-90.0,top
+OUT1,Bus_M.2_Socket_B,NGFF_B,143.1125,-100.0,90.0,top
