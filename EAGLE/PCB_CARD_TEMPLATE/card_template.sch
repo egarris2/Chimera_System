@@ -4241,7 +4241,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <part name="GND3" library="supply" deviceset="GND" device=""/>
 <part name="+3V1" library="supply" deviceset="+3V3" device=""/>
 <part name="R2" library="_NIBE_rcl" deviceset="R-EU_" device="R0603" value="470R"/>
-<part name="R3" library="_NIBE_rcl" deviceset="R-EU_" device="R0603" value="LED_GREEN"/>
+<part name="LED1" library="_NIBE_rcl" deviceset="R-EU_" device="R0603" value="LED_GREEN"/>
 <part name="+5V1" library="supply" deviceset="+5V" device=""/>
 <part name="+3V2" library="supply" deviceset="+3V3" device=""/>
 <part name="GND4" library="supply" deviceset="GND" device=""/>
@@ -4284,8 +4284,8 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <attribute name="NAME" x="282.956" y="243.0526" size="1.778" layer="95"/>
 <attribute name="VALUE" x="281.686" y="237.998" size="1.778" layer="96"/>
 </instance>
-<instance part="R3" gate="G$1" x="297.18" y="241.3" smashed="yes">
-<attribute name="NAME" x="295.148" y="243.0526" size="1.778" layer="95"/>
+<instance part="LED1" gate="G$1" x="297.18" y="241.3" smashed="yes">
+<attribute name="NAME" x="294.386" y="244.3226" size="1.778" layer="95"/>
 <attribute name="VALUE" x="291.084" y="238.252" size="1.778" layer="96"/>
 </instance>
 <instance part="+5V1" gate="A" x="127" y="276.86" smashed="yes">
@@ -4332,7 +4332,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <junction x="167.64" y="205.74"/>
 </segment>
 <segment>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="LED1" gate="G$1" pin="2"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 <wire x1="302.26" y1="241.3" x2="307.34" y2="241.3" width="0.1524" layer="91"/>
 <wire x1="307.34" y1="241.3" x2="307.34" y2="236.22" width="0.1524" layer="91"/>
@@ -4960,7 +4960,7 @@ Source: http://www.mouser.com/ds/2/392/products_18-2245.pdf</description>
 <net name="N$33" class="0">
 <segment>
 <pinref part="R2" gate="G$1" pin="2"/>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="LED1" gate="G$1" pin="1"/>
 <wire x1="289.56" y1="241.3" x2="292.1" y2="241.3" width="0.1524" layer="91"/>
 </segment>
 </net>
